@@ -1,0 +1,30 @@
+{
+    "Lat Raises" : {
+        "video" : "https://www.youtube.com/watch?v=PzsMitRdI_8",
+        "description": "Lateral raises are a shoulder exercise targeting the deltoid muscles, involving lifting dumbbells out to the sides to shoulder height."
+    },
+    "Bench press" : {
+        "video" : "https://www.youtube.com/watch?v=4Y2ZdHCOXok",
+        "description": "The bench press is a compound strength exercise primarily targeting the chest muscles, involving pressing a weight upwards while lying on a horizontal bench."
+    },
+    "Calf Raise" : {
+        "video" : "https://www.youtube.com/watch?v=eMTy3qylqnE",
+        "description": "Calf raises are a lower body exercise targeting the calf muscles, involving raising the heels off the ground by pushing through the balls of the feet and then lowering them back down."
+    },
+    "Squat" : {
+        "video" : "https://www.youtube.com/watch?v=IB_icWRzi4E",
+        "description": "Squats are a compound exercise that targets multiple muscles in the lower body, primarily the quadriceps, hamstrings, and glutes, performed by bending the knees and lowering the hips until the thighs are parallel to the ground or lower, then returning to a standing position."
+    },
+    "Pushups" : {
+        "video" : "https://www.youtube.com/watch?v=JyCG_5l3XLk",
+        "description": "Push-ups are a bodyweight exercise that targets the chest, shoulders, and triceps, involving lowering the body to the ground by bending the elbows and then pushing back up to the starting position."
+    },
+    "Crunches" : {
+        "video" : "https://www.youtube.com/watch?v=O0pIQ2UqeCY",
+        "description": "Crunches are a core exercise targeting the abdominal muscles, involving lying on your back, bending your knees, and lifting your upper body off the ground by contracting the abdominal muscles, then lowering back down."
+    },
+    "Pullups" : {
+        "video" : "https://www.youtube.com/watch?v=hkBcTOa21oQ",
+        "description": "Pull-ups are a compound bodyweight exercise primarily targeting the back, biceps, and shoulders, performed by hanging from a bar with palms facing away from you and pulling yourself upward until your chin clears the bar, then lowering yourself back down with control."
+    }
+}

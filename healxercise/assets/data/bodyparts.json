@@ -1,0 +1,6 @@
+{
+    "Shoulders" : ["front", "side", "back"],
+    "Back": ["upper", "lower", "middle"],
+    "Chest":["Upper", "Mid", "Lower"],
+    "Legs": ["Quads", "Hamstrings", "Calves"]
+}
